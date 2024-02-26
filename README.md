@@ -19,7 +19,7 @@ A few resources to get you started if this is your first Flutter project:
 ## Features
 - Email & Password Validation
   <p align="center">
-  <img width="600" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/SSB_erroe.gif" >
+  <img  src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/SSB_erroe.gif" >
 </p>
 - Toast Message
  <p align="center">
