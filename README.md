@@ -1,10 +1,24 @@
 # Bynry 
 
-A new Flutter project.
+This Utility Management Application is a user-friendly platform developed to simplify the management of utility services such as gas, water, and electricity for B2B(Business to Business) organizations.
+## Contents
+- Installation
 
-## Getting Started
+- Introduction
 
-This project is a starting point for a Flutter application.
+- New Features
+
+## Installation
+1. Clone the repository and Navigate to the project directory:
+```bash
+git clone https://github.com/JAYAKOLIYA2803/bynry.git
+cd bynry
+```
+2. Make sure to run these commands after starting the simulator:
+```bash
+flutter pub get
+flutter run
+```
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -37,13 +51,13 @@ A few resources to get you started if this is your first Flutter project:
   <img width="220" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/131shots_so.png" >
 </p>
   
-## New Feature
+## New Features
 - Sign in with Google & Facebook
 <p align="center">
   <img width="220" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/142shots_so.png" >
 </p>
 
-- Notification on Icons
+- Notifications on Icons
 <p align="center">
   <img width="500" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/131shotss_so.png" >
 </p>
