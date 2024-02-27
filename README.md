@@ -19,23 +19,31 @@ A few resources to get you started if this is your first Flutter project:
 ## Features
 - Email & Password Validation
   <p align="center">
-  <img  width="300" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/SSB_error.gif" >
+  <img  width="220" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/SSB_error.gif" >
 </p>
+
 - Toast Message
  <p align="center">
-  <img width="300" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/SSB_login_toast.gif" >
-</p>
-- Sign in with Google & Facebook
-<p align="center">
-  <img width="300" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/142shots_so.png" >
+  <img width="220" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/SSB_login_toast.gif" >
 </p>
 
 - Mobile No & OTP verification
 <p align="center">
-  <img width="300" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/971shots_so.png" >
+  <img width="220" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/971shots_so.png" >
 </p>
+
 - Bills Payment and Managment
 <p align="center">
-  <img width="300" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/131shots_so.png" >
+  <img width="220" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/131shots_so.png" >
 </p>
   
+## New Feature
+- Sign in with Google & Facebook
+<p align="center">
+  <img width="220" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/142shots_so.png" >
+</p>
+
+- Notification on Icons
+<p align="center">
+  <img width="500" src="https://github.com/JAYAKOLIYA2803/bynry/blob/main/assets/images/131shotss_so.png" >
+</p>
